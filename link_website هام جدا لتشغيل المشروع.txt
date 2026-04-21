@@ -1,0 +1,6 @@
+open Code_Java and copy file "java" and past it in you project ("src" -> "test" ->"java")
+add dependencies from (Code_Java -> dependencies.txt) open you will copy code and past in pom.xml
+
+open XAMPP
+
+http://localhost/php/results.php
